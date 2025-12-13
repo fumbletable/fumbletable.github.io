@@ -1,18 +1,19 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-I'm Damien, and Fumble Table is a labor of love, born from countless hours around the gaming table.
+I'm Damien, and Fumble Table is a labor of love born from countless hours around the gaming table.
 
-Here you'll find my thoughts on tabletop RPGs, game design explorations, reviews of systems I've played, and updates on my own game: **Olde Swords Reign**.
+I've been running tabletop RPGs for years - mostly old-school style games where player skill matters more than character builds, and where the dice can kill you if you're not careful. I love the creative freedom that comes with simpler systems.
 
-## Olde Swords Reign
+## What You'll Find Here
 
-My fantasy RPG built on classic foundations. Four classes. Infinite archetypes. Real danger.
-
-Check out the [full rules and resources](https://fumbletable.github.io/osreign/).
+- **Reviews** - Honest takes on RPG systems and adventures I've actually played
+- **Game Design** - Thoughts on what makes games work (and what doesn't)
+- **Resources** - Tables, generators, and tools for your table
+- **Olde Swords Reign** - Updates on my own fantasy RPG ([more about OSWR](/oswr/))
 
 ## Get in Touch
 
