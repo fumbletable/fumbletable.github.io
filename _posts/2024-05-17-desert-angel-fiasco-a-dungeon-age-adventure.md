@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /desert-angel-fiasco-a-dungeon-age-adventure/
 title: "Desert Angel Fiasco - A Dungeon Age Adventure"
 date: 2024-05-17 12:00:00 +0000
 categories: [Blog]

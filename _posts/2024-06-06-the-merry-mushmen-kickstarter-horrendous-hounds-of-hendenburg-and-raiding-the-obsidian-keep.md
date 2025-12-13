@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /the-merry-mushmen-kickstarter-horrendous-hounds-of-hendenburg-and-raiding-the-obsidian-keep/
 title: "The Merry Mushmen Kickstarter - \"Horrendous Hounds of Hendenburg\" and \"Raiding the Obsidian Keep\""
 date: 2024-06-06 12:00:00 +0000
 categories: ["Reviews"]

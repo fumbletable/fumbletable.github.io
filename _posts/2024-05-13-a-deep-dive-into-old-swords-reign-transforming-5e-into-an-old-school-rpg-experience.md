@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /a-deep-dive-into-old-swords-reign-transforming-5e-into-an-old-school-rpg-experience/
 title: "A Deep Dive into \"Old Sword's Reign\": Transforming 5E into an Old-School RPG Experience"
 date: 2024-05-13 12:00:00 +0000
 categories: [Blog]

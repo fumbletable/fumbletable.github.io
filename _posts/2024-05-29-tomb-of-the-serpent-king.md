@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /tomb-of-the-serpent-king/
 title: "'Tomb Of The Serpent King'"
 date: 2024-05-29 12:00:00 +0000
 categories: ["Reviews"]

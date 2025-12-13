@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /whitehack-far-more-than-a-dd-retro-clone/
 title: "Whitehack: Far more than a D&D retro clone!"
 date: 2024-05-30 12:00:00 +0000
 categories: ["Reviews"]

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /unlocking-the-secrets-of-prison-of-the-hated-pretender-a-module-review/
 title: "Unlocking the Secrets of \"Prison of the Hated Pretender\": A Module Review"
 date: 2024-03-02 12:00:00 +0000
 categories: ["Reviews"]

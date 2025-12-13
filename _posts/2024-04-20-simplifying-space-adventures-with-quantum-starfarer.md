@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /simplifying-space-adventures-with-quantum-starfarer/
 title: "Simplifying Space Adventures with Quantum Starfarer"
 date: 2024-04-20 12:00:00 +0000
 categories: ["Reviews"]

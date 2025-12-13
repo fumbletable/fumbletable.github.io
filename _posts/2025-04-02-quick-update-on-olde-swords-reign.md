@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /quick-update-on-olde-swords-reign/
 title: "Quick Update on Olde Swords Reign"
 date: 2025-04-02 12:00:00 +0000
 categories: ["Olde Swords Reign"]

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /the-evils-of-illmire-one-of-the-best-dd-adventures/
 title: "The Evils of Illmire: One of the Best D&D Adventures"
 date: 2024-06-03 12:00:00 +0000
 categories: ["Reviews"]

@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /play-dd-for-free-top-4-affordable-fantasy-rpgs-you-need-to-try/
 title: "Play D&D for Free: Top 4 Affordable Fantasy RPGs You Need to Try!"
 date: 2024-06-11 12:00:00 +0000
 categories: ["Reviews"]

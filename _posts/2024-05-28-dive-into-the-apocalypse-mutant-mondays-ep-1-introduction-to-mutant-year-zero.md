@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /dive-into-the-apocalypse-mutant-mondays-ep-1-introduction-to-mutant-year-zero/
 title: "Dive into the Apocalypse | Mutant Mondays Ep. 1 - Introduction to Mutant Year Zero"
 date: 2024-05-28 12:00:00 +0000
 categories: ["Mutant Mondays"]

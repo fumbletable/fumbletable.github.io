@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /woodfall-a-deep-dive-my-review/
 title: "Delving into \"Woodfall\": A Micro-Setting That Transforms Game Design"
 date: 2024-04-27 12:00:00 +0000
 categories: ["Reviews"]

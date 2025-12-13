@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /unleashing-the-hounds-a-review-of-hounds-of-hendenburg/
 title: "Unleashing the Hounds: A Review of Hounds of Hendenburg"
 date: 2024-04-13 12:00:00 +0000
 categories: ["Reviews"]

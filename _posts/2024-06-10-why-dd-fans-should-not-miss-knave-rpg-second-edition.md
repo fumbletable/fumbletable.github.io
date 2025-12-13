@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /why-dd-fans-should-not-miss-knave-rpg-second-edition/
 title: "Why D&D Fans Should Not Miss Knave RPG: Second Edition!"
 date: 2024-06-10 12:00:00 +0000
 categories: ["Reviews"]

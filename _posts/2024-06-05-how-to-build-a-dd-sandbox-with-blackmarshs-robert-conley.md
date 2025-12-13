@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /how-to-build-a-dd-sandbox-with-blackmarshs-robert-conley/
 title: "How to Build a D&D Sandbox, with Blackmarsh's Robert Conley"
 date: 2024-06-05 12:00:00 +0000
 categories: ["How To"]

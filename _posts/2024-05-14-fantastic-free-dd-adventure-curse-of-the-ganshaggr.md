@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /fantastic-free-dd-adventure-curse-of-the-ganshaggr/
 title: "Fantastic Free D&D adventure: Curse of the Ganshaggr"
 date: 2024-05-14 12:00:00 +0000
 categories: ["Reviews"]

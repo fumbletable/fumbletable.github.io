@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /diving-deep-into-the-prison-of-the-hated-pretender-rpg-module/
 title: "Diving Deep into the \"Prison of the Hated Pretender\" RPG Module"
 date: 2024-03-02 12:00:00 +0000
 categories: ["Reviews"]

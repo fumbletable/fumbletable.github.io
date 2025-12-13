@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /echoes-from-fomalhaut-1-a-fantastic-dd-zine/
 title: "Echoes from Fomalhaut #1: A Fantastic D&D Zine."
 date: 2024-05-15 12:00:00 +0000
 categories: ["Reviews"]

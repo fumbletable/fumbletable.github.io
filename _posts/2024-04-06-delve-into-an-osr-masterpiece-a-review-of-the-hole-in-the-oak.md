@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /delve-into-an-osr-masterpiece-a-review-of-the-hole-in-the-oak/
 title: "Delve into an OSR Masterpiece: A Review of 'The Hole in the Oak'"
 date: 2024-04-06 12:00:00 +0000
 categories: ["Reviews"]
