@@ -1,26 +1,74 @@
 ---
 redirect_from:
   - /play-dd-for-free-top-4-affordable-fantasy-rpgs-you-need-to-try/
-title: "Play D&D for Free: Top 4 Affordable Fantasy RPGs You Need to Try!"
+title: "Play D&D for Free: 4 Games Under a Tenner"
 date: 2024-06-11 12:00:00 +0000
-categories: ["Reviews"]
-tags: [d&d, rpg, ttrpg games]
+categories: ["Resources"]
+tags: [free-rpgs, osr, 5e, oswr, basic-fantasy]
 ---
 
-Welcome to the start of a new series aimed at helping gamers play Dungeons & Dragons and other tabletop RPGs for free, or at least cheap! This series is for you if you've hesitated to dive into D&D because of costs. We explore various systems, adventures, and settings that can fit any group's needs without breaking the bank.
+I've wanted to do this series for a while. How to play D&D for free.
 
-<!--more-->
+{% include embed/youtube.html id='QRb91UX6GUU' %}
 
-In this video, I introduce four game systems that offer free PDF versions and are also available in physical form for under £10. Whether you prefer the charm of old-school systems or the innovations of newer editions, there's something here for everyone. I'll take you through each option, highlighting features like simplicity of play, the range of available classes, and how each system handles mechanics like saving throws and skills.
+We get in our own way. We think we need to buy everything to run a game. We don't.
 
-This series is not just about cost-cutting; it's about empowering you to start playing without the need for hefty investments, underlining that the entry barriers for D&D and similar games are much lower than you might anticipate. So, without further ado, let's delve into some pocket-friendly RPG options that are both easy to get into and enjoyable
+My criteria: not just free PDFs (there's loads of those) but games where you can get the PDF free AND a paper copy for less than a tenner. Because if I'm learning a game, I want the book in my hand. I want to feel it, smell it, absorb it through paper. And I want my players to have copies too.
 
-You can get the games here 
+## 1. White Box: Fantastic Medieval Adventure Game
 
-[https://www.amazon.co.uk/White-Box-Fa...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVZPOUZoSUladjIyRTdrNl9ad0FaRUU2dUprUXxBQ3Jtc0tueU9IMTI3V0xYaFdYM2RsbnlGTXpHcTVLOXVnb2c3TEFDNnc4UTBGMjNNaEFWeXA5OHVSc2dSbW9NWF9rSFd5ZkR3WmxpYTJmTGgxWTJMdHl1WVQtWl9KRDU3U0ptMVI4NnplWXdpOGVCb2RsQy1HRQ&q=https%3A%2F%2Fwww.amazon.co.uk%2FWhite-Box-Fantastic-Medieval-Adventure%2Fdp%2F1981331395%2F&v=QRb91UX6GUU)
+Super old school. Based on original white box D&D. Only uses d20s and d6s.
 
-[https://www.amazon.co.uk/Basic-Fantas...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDlXal9IU2s3NzVQS0NTVElHelNUZVBxdEpId3xBQ3Jtc0tuM0dzdF9kemZTQ3ctc3VpcmVRQ3J5N0kwbUo2ck9QWk5qLXhweU56aE9kRTBsbFJva2pqZnY5bUdZeGIxUWpQOXlxSElwMTlvQzJWLURBMm1NdS04OFJvY05vdnFZVjRLYXUxMGN0TENXS3NQdkVMTQ&q=https%3A%2F%2Fwww.amazon.co.uk%2FBasic-Fantasy-Core-Rules-4thEd%2Fdp%2FB0C87R4QH2%2F&v=QRb91UX6GUU)
+It's simplified: one saving throw per class instead of the old school multiple saves. Thief skills use a d6. All your monsters, all your spells, everything's there. The artwork and layout are gorgeous.
 
-[https://www.amazon.co.uk/Olde-Swords-...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGxMTGN0ZHBxUm4xYV9TMl80YVM2OTdKSThpUXxBQ3Jtc0tuUkZXTTZuQnh4Q3YyYXVZNGMxM1VFbkhRYm85cWxIMllBQUstcmJDajNMU2J2dmR3Wk1sSEJCMkNnR25DckE3SHctWG5mQUExVjFtbW14bVRUMFpUdE5QUzlxandBN0tHY1BCenFIajVGenZjTnY1NA&q=https%3A%2F%2Fwww.amazon.co.uk%2FOlde-Swords-Reign-Complete-adventure%2Fdp%2FB0B7QTTS5T%2F&v=QRb91UX6GUU)
+Optional thief class - the original white box didn't have thieves, that came in later supplements.
 
-[https://www.lulu.com/shop/mike-mearls...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGVZY3hXMXVWVFlvNDNyWThIWk93OUpWVzhzUXxBQ3Jtc0trb1BDNWlzTVp1ZVNaNTVlc2FaY1NOWG04emxNbVdTQUFyNDQ1OF85RmgxOGlMN2JTSEFtSGNtZjlONlBQc21qeFdNRXRpZ0Z1UUlIUUhkQWJIaGgtUlE1UERxeFpDMml6YXVhNnlEZjNzUk9wcXFaMA&q=https%3A%2F%2Fwww.lulu.com%2Fshop%2Fmike-mearls%2Fdd-5e-basic-set-combined-edition%2Fpaperback%2Fproduct-15gke8w9.html&v=QRb91UX6GUU)
+**Price:** £5.24 on Amazon UK. 144 pages, nice digest size.
+
+[Get White Box on Amazon](https://www.amazon.co.uk/White-Box-Fantastic-Medieval-Adventure/dp/1981331395/)
+
+## 2. Basic Fantasy RPG
+
+This is the fourth edition, no longer OGL - it's Creative Commons now. I've got everything Basic Fantasy has ever put out. I love the game, I love the community.
+
+Four classes, loads of options from their site. All your spells, monsters, everything you need. Instructions on how to run a game. It has the old school saving throws (dragon's breath, poison, that kind of thing) which took me a while to get used to coming from 5e.
+
+Amazing game. Great community. Fantastic book.
+
+**Price:** £6.25 on Amazon. An entire game.
+
+[Get Basic Fantasy on Amazon](https://www.amazon.co.uk/Basic-Fantasy-Core-Rules-4thEd/dp/B0C87R4QH2/)
+
+## 3. 5th Edition Basic Rules (Physical Book!)
+
+Most people don't know this exists.
+
+The basic edition of 5e - two books, one for DM and one for players. You can get the PDFs free, but you can also get physical copies on Lulu from Mike Mearls.
+
+No images in it. Just the PDF put into a book. Four classes. In many ways I actually think this is the best version of 5e, certainly for new games and new players. It doesn't have the bells and whistles and I think that makes it a better game.
+
+**Price:** £6.30 on Lulu plus postage.
+
+[Get D&D 5e Basic on Lulu](https://www.lulu.com/shop/mike-mearls/dd-5e-basic-set-combined-edition/paperback/product-15gke8w9.html)
+
+## 4. Olde Swords Reign
+
+This one's mine. Completely free on our site.
+
+It's not a retro clone. Retro clones are based on old school D&D and that's it. This is based on 5th edition but reimagined with an old school feel.
+
+Deadlier. Faster. Easier to run, easier to learn. Huge amount of options. If you're going from 5e to an old school game, it's a really good choice because everybody knows where things are.
+
+The main differences: faster, deadlier, options for things 5e ignores like traveling and survival, instructions for dungeon crawls.
+
+**Price:** Free.
+
+[Get Olde Swords Reign](/oswr/)
+
+## The Bottom Line
+
+You can get all four books for about £24. That's cheaper than a single Player's Handbook.
+
+Or find the one you like and get copies for everyone at your table for less than one PHB costs.
+
+Future videos will cover free adventures and my favourite free setting. Everything you need to start running games without hassle.
