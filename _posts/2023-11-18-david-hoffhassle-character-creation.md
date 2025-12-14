@@ -2,7 +2,7 @@
 title: "Roll Any Character You Want: The David Hoffhassle Method"
 date: 2023-11-18 12:00:00 +0000
 categories: ["OSWR"]
-tags: [oswr, olde-swords-reign, character-creation, osr, rpg]
+tags: [olde-swords-reign, character-creation, osr, rpg]
 ---
 
 David Hoffhassle was a retired actor whose last show got cancelled. He carried a shield with "Knight Industries" on it. He was one of my favourite characters ever. Let me show you how we make characters like this.

@@ -4,7 +4,7 @@ redirect_from:
 title: "Olde Swords Reign: Past, Present, and Future"
 date: 2023-08-12 12:00:00 +0000
 categories: ["Olde Swords Reign"]
-tags: [oswr, design, game-design]
+tags: [olde-swords-reign, design, game-design]
 ---
 
 This video covers where Olde Swords Reign came from, where it is now, and where it's going. I've had a lot of questions about design choices and what's coming, so here's everything in one place.

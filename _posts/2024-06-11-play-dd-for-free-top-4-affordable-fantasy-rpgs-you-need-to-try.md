@@ -4,7 +4,7 @@ redirect_from:
 title: "Play D&D for Free: 4 Games Under a Tenner"
 date: 2024-06-11 12:00:00 +0000
 categories: ["Resources"]
-tags: [free-rpgs, osr, 5e, oswr, basic-fantasy]
+tags: [free-rpgs, osr, 5e, olde-swords-reign, basic-fantasy]
 ---
 
 I've wanted to do this series for a while. How to play D&D for free.

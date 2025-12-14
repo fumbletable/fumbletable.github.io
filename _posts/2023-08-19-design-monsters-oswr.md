@@ -2,7 +2,7 @@
 title: "Design Unique Monsters in Minutes: The OSWR Method"
 date: 2023-08-19 12:00:00 +0000
 categories: ["OSWR"]
-tags: [oswr, olde-swords-reign, monsters, game-design, dm-tools, osr]
+tags: [olde-swords-reign, monsters, game-design, dm-tools, osr]
 ---
 
 I'm going to show you how I create unique, interesting monsters in minutes. Not stat blocks. Actual creatures with personality that'll challenge your players.

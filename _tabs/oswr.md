@@ -24,7 +24,7 @@ The full rules are being revised. I'm taking the time to get it right rather tha
 
 In the meantime:
 - Join the [Discord](https://discord.gg/KJgrHHDkSG) to chat with other players
-- Check out [OSWR blog posts](/tags/oswr/)
+- Check out [Olde Swords Reign blog posts](/tags/olde-swords-reign/)
 
 ## Play It
 
