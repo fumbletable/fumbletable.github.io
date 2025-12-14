@@ -3,6 +3,8 @@ layout: page
 icon: fas fa-dice-d20
 order: 1
 title: Olde Swords Reign
+redirect_from:
+  - /olde-swords-reign/
 ---
 
 **Four classes. Infinite archetypes. Real danger.**
