@@ -24,7 +24,7 @@ The full rules are being revised. I'm taking the time to get it right rather tha
 
 In the meantime:
 - Join the [Discord](https://discord.gg/KJgrHHDkSG) to chat with other players
-- Check out OSWR posts on the [blog](/)
+- Check out [OSWR blog posts](/tags/oswr/)
 
 ## Play It
 
