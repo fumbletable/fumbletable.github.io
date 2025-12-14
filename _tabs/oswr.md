@@ -18,11 +18,12 @@ Olde Swords Reign is my fantasy RPG built on classic foundations. It takes the b
 
 ## Current Status
 
-The full rules are being revised. The community has been playing and providing feedback, and I'm taking the time to get it right rather than rush something half-baked.
+The full rules are being revised. I'm taking the time to get it right rather than rush something half-baked.
+
+**Expect the project to go live before Christmas 2025.**
 
 In the meantime:
 - Join the [Discord](https://discord.gg/KJgrHHDkSG) to chat with other players
-- Browse the [work-in-progress rules](https://fumbletable.github.io/osreign/) (Second Edition draft)
 - Check out OSWR posts on the [blog](/)
 
 ## Play It
