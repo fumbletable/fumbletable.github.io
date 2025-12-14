@@ -17,5 +17,6 @@ I've been running tabletop RPGs for years - mostly old-school style games where 
 
 ## Get in Touch
 
-- Join the [Discord community](https://discord.gg/KJgrHHDkSG)
-- Find me on [GitHub](https://github.com/fumbletable)
+Join the [Olde Swords Reign Discord](https://discord.gg/KJgrHHDkSG) - it's also home to Fumble Table community chat. DM me there for collaboration inquiries or just say hello in the general channel.
+
+You can also find me on [GitHub](https://github.com/fumbletable) and [YouTube](https://www.youtube.com/@fumbletable).
