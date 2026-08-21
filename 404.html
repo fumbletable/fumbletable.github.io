@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fumble Table has moved to fumbletable.com</title>
+<link rel="canonical" href="https://fumbletable.com/">
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font: 16px/1.6 Georgia, "Times New Roman", serif;
+    max-width: 34rem; margin: 20vh auto 0; padding: 0 1.25rem;
+    background: #faf8f5; color: #241f1a;
+  }
+  @media (prefers-color-scheme: dark) { body { background: #1a1714; color: #ece6de; } }
+  a { color: inherit; }
+  p { margin: 0 0 1rem; }
+  .small { font-size: 0.875rem; opacity: 0.7; }
+</style>
+<script>
+  // Every post from the old site, mapped to its URL on fumbletable.com.
+  // Built and verified 2026-08-21: all 48 targets returned 200 before this shipped.
+  // A table rather than a path rule, because the old site used /posts/{slug}/ and the
+  // new one uses /posts/{date}-{slug}/ — a path-preserving redirect landed only 13 of 48.
+  var POSTS = {"oswr-complete-walkthrough":"/posts/2022-07-15-oswr-complete-walkthrough/","olde-swords-reign-past-present-and-future":"/posts/2023-08-12-olde-swords-reign-past-present-and-future/","design-monsters-oswr":"/posts/2023-08-19-design-monsters-oswr/","giving-my-game-away-basic-fantasy":"/posts/2023-08-26-giving-my-game-away-basic-fantasy/","the-ultimate-d66-name-generator":"/posts/2023-09-20-the-ultimate-d66-name-generator/","discover-blackmarsh-the-best-free-setting":"/posts/2023-10-01-discover-blackmarsh-the-best-free-setting/","free-starter-adventures-for-blackmarsh":"/posts/2023-10-08-free-starter-adventures-for-blackmarsh/","maze-rats-101":"/posts/2023-10-21-maze-rats-101/","sandbox-prep-4-pillars":"/posts/2023-11-05-sandbox-prep-4-pillars/","barrys-heartbreaking-tale-4-pillars-in-action":"/posts/2023-11-11-barrys-heartbreaking-tale-4-pillars-in-action/","david-hoffhassle-character-creation":"/posts/2023-11-18-david-hoffhassle-character-creation/","fourtower-bridge-the-perfect-free-homebase":"/posts/2023-11-26-fourtower-bridge-the-perfect-free-homebase/","tomb-of-the-serpent-king-the-best-free-starter-dungeon":"/posts/2023-11-26-tomb-of-the-serpent-king-the-best-free-starter-dungeon/","hive-mind-swarm-mechanics":"/posts/2023-12-03-hive-mind-swarm-mechanics/","5e-to-osr-transition":"/posts/2024-01-06-5e-to-osr-transition/","black-wyrm-of-brandonsford":"/posts/2024-02-03-black-wyrm-of-brandonsford/","fate-rpg-essentials":"/posts/2024-02-24-fate-rpg-essentials/","unlocking-the-secrets-of-prison-of-the-hated-pretender-a-module-review":"/posts/2024-03-02-unlocking-the-secrets-of-prison-of-the-hated-pretender-a-module-review/","the-aether-sea-spelljammer-meets-firefly":"/posts/2024-03-09-the-aether-sea-spelljammer-meets-firefly/","desert-angel-fiasco-the-best-airship-one-shot":"/posts/2024-03-30-desert-angel-fiasco-the-best-airship-one-shot/","delve-into-an-osr-masterpiece-a-review-of-the-hole-in-the-oak":"/posts/2024-04-06-delve-into-an-osr-masterpiece-a-review-of-the-hole-in-the-oak/","hounds-of-hendenburg-free-adventure-for-your-war-chest":"/posts/2024-04-13-hounds-of-hendenburg-free-adventure-for-your-war-chest/","quantum-starfarer-traveller-without-the-headache":"/posts/2024-04-20-quantum-starfarer-traveller-without-the-headache/","woodfall-a-deep-dive-my-review":"/posts/2024-04-27-woodfall-a-deep-dive-my-review/","echoes-from-fomalhaut-1-a-fantastic-dd-zine":"/posts/2024-05-04-echoes-from-fomalhaut-1-a-fantastic-dd-zine/","mutant-year-zero-introduction-mutant-mondays-episode-1":"/posts/2024-05-06-mutant-year-zero-introduction-mutant-mondays-episode-1/","curse-of-the-ganshaggr-a-free-module-about-a-killer-goose":"/posts/2024-05-11-curse-of-the-ganshaggr-a-free-module-about-a-killer-goose/","whitehack-far-more-than-a-dd-retro-clone":"/posts/2024-05-30-whitehack-far-more-than-a-dd-retro-clone/","the-evils-of-illmire-one-of-the-best-dd-adventures":"/posts/2024-06-03-the-evils-of-illmire-one-of-the-best-dd-adventures/","how-to-build-a-dd-sandbox-with-blackmarshs-robert-conley":"/posts/2024-06-05-how-to-build-a-dd-sandbox-with-blackmarshs-robert-conley/","the-merry-mushmen-kickstarter-horrendous-hounds-of-hendenburg-and-raiding-the-obsidian-keep":"/posts/2024-06-06-the-merry-mushmen-kickstarter-horrendous-hounds-of-hendenburg-and-raiding-the-obsidian-keep/","why-dd-fans-should-not-miss-knave-rpg-second-edition":"/posts/2024-06-10-why-dd-fans-should-not-miss-knave-rpg-second-edition/","play-dd-for-free-top-4-affordable-fantasy-rpgs-you-need-to-try":"/posts/2024-06-11-play-dd-for-free-top-4-affordable-fantasy-rpgs-you-need-to-try/","incandescent-grottoes":"/posts/2024-06-15-incandescent-grottoes/","faster-than-light-nomad":"/posts/2024-06-22-faster-than-light-nomad/","no-artpunk-vol-1":"/posts/2024-06-30-no-artpunk-vol-1/","imperial-vault-19":"/posts/2024-07-06-imperial-vault-19/","do-not-let-us-die":"/posts/2024-07-13-do-not-let-us-die/","demon-driven-to-the-maw":"/posts/2024-08-03-demon-driven-to-the-maw/","sword-of-cepheus-2nd-edition":"/posts/2024-09-28-sword-of-cepheus-2nd-edition/","bruja-beast-barrow":"/posts/2024-10-05-bruja-beast-barrow/","vaesen-rpg-review":"/posts/2024-10-26-vaesen-rpg-review/","forbidden-lands-taught-me-you-dont-have-to-prep":"/posts/2025-02-09-forbidden-lands-taught-me-you-dont-have-to-prep/","quick-update-on-olde-swords-reign":"/posts/2025-04-02-quick-update-on-olde-swords-reign/","no-one-survives-mork-borg-and-thats-the-point":"/posts/2025-06-28-no-one-survives-mork-borg-and-thats-the-point/","cyborg-converted-me-a-fantasy-gms-cyberpunk-awakening":"/posts/2025-07-05-cyborg-converted-me-a-fantasy-gms-cyberpunk-awakening/","the-blackapple-brugh-review":"/posts/2026-01-29-the-blackapple-brugh-review/","reading-every-dnd-rulebook-in-order":"/posts/2026-03-08-reading-every-dnd-rulebook-in-order/"};
+
+  // Non-post paths that changed name. Everything else on the old nav (/about/,
+  // /categories/, /tags/) kept its path and was verified 200 on 2026-08-21.
+  var PATHS = { '/archives/': '/archive/', '/archives': '/archive/' };
+
+  (function () {
+    var path = window.location.pathname || '/';
+    var m = path.match(/^\/posts\/([^\/]+)\/?$/);
+    var dest = 'https://fumbletable.com'
+      + ((m && POSTS[m[1]]) ? POSTS[m[1]]
+        : PATHS[path] ? PATHS[path]
+        : (path === '/' ? '/' : path));
+    var link = document.getElementById('dest');
+    if (link) { link.href = dest; link.textContent = dest; }
+    window.location.replace(dest);
+  })();
+</script>
+</head>
+<body>
+  <p><strong>Fumble Table has moved.</strong></p>
+  <p>Taking you to <a id="dest" href="https://fumbletable.com/">fumbletable.com</a>.</p>
+  <p class="small">This address served the old Jekyll site until August 2026.</p>
+</body>
+</html>

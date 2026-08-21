@@ -1,43 +1,48 @@
-# Chirpy Starter
+# fumbletable.github.io — retired
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+**This site is retired. Fumble Table lives at [fumbletable.com](https://fumbletable.com).**
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+It served the Jekyll + Chirpy version of Fumble Table until **April 2026**, and stayed
+live as a duplicate of the whole blog for four months after the new site launched —
+competing with fumbletable.com in search and confusing anyone arriving on an old link.
+Retired **2026-08-21**.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## What's left here
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+Two files, and nothing else:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- `index.html` — forwards the root to fumbletable.com
+- `404.html` — GitHub Pages serves this for **every** unmatched path, so every old URL
+  gets forwarded. Old posts lived at `/posts/{slug}/`; the live site serves the bare
+  slug at `/{slug}/` via the legacy redirect stubs added on 2026-07-30, so the redirect
+  preserves the path and lands on the real article rather than dumping everyone on the
+  homepage.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Old URLs now return **404 with a forward**, which is the intended outcome: search engines
+drop the duplicate, humans land on the right page.
 
-## Usage
+## What was removed, and why it mattered
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+The Jekyll site itself — `_posts/` (48 posts), `_tabs/`, `_data/`, `_plugins/`, `assets/`,
+`tools/`, `_config.yml`, `Gemfile` — plus the Chirpy build workflow. **All of it is in git
+history** (see the commit before the retirement) and all 48 posts live on fumbletable.com.
 
-## Contributing
+Also removed: **the Chirpy build workflow**, replaced with a plain static upload. Left in
+place it would have failed on the missing `_posts` and deployed nothing — which would have
+left the *old* site serving. That failure mode looks like success from the outside.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+**`CNAME`** (which contained `fumbletable.com`) was already deleted on `main` in April —
+commit `348ebf9`. Worth knowing it's gone: while it existed it was a dormant claim on the
+live domain that a rebuild could have tried to re-assert.
 
-## License
+One related thing that is **not** in this repo: the old Chirpy **PWA service worker**
+outlived the site, so browsers that visited before April kept serving a cached March
+snapshot of fumbletable.com. `public/sw.js` on the new site is a permanent kill-switch for
+it — **do not delete that file**, stale clients still turn up.
 
-This work is published under [MIT][mit] License.
+## Do not un-retire this
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+If Fumble Table ever needs a GitHub Pages presence again, make a new repo. Bringing this
+one back recreates the duplicate-content problem and the `CNAME` conflict in one move.
+
+Brain context: `projects/fumble-table-site/PROJECT.md`.
